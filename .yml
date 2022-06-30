@@ -1,0 +1,2 @@
+- name: Sourcegraph Rust LSIF Indexer
+  uses: sourcegraph/lsif-rust-action@v0.1.0
